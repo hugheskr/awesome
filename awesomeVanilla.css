@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(70,103,196);
+}
+
+div {
+  background-color: grey;
+  font-family: Arial;
+  font-size: 80px;
+  color: white;
+  border-style: inset;
+  border-width: 2px;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  margin: 100px;
+}
